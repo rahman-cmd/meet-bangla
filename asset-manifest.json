@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/meet-bangla/static/css/main.137b43e0.chunk.css",
+    "main.js": "/meet-bangla/static/js/main.753ad84f.chunk.js",
+    "main.js.map": "/meet-bangla/static/js/main.753ad84f.chunk.js.map",
+    "runtime-main.js": "/meet-bangla/static/js/runtime-main.60257148.js",
+    "runtime-main.js.map": "/meet-bangla/static/js/runtime-main.60257148.js.map",
+    "static/js/2.b940a183.chunk.js": "/meet-bangla/static/js/2.b940a183.chunk.js",
+    "static/js/2.b940a183.chunk.js.map": "/meet-bangla/static/js/2.b940a183.chunk.js.map",
+    "index.html": "/meet-bangla/index.html",
+    "static/css/main.137b43e0.chunk.css.map": "/meet-bangla/static/css/main.137b43e0.chunk.css.map",
+    "static/js/2.b940a183.chunk.js.LICENSE.txt": "/meet-bangla/static/js/2.b940a183.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/meet-bangla/static/media/fa-solid-900.ea8d7f8c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60257148.js",
+    "static/js/2.b940a183.chunk.js",
+    "static/css/main.137b43e0.chunk.css",
+    "static/js/main.753ad84f.chunk.js"
+  ]
+}
