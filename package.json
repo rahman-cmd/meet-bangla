@@ -1,8 +1,8 @@
 {
-  "name": "jitsireact",
+  "name": "meet-bangla",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./index.html",
+  "homepage": "https://rahman-cmd.github.io/meet-bangla",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
