@@ -1,7 +1,7 @@
 # &lt;Jutsu /&gt;
 > A jitsi meet component wrapper and custom hook moulded with react's chakra 💠
 
-[View live demo](https://this-fifo.github.io/jutsu/)
+
 
 [![NPM](https://img.shields.io/npm/v/react-jutsu.svg)](https://www.npmjs.com/package/react-jutsu)
 
